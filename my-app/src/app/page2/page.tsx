@@ -1,9 +1,9 @@
-import Layout from '../layout';
+import Layout from '../../layout';
 
-export default function Home() {
+export default function Page1() {
   return (
     <Layout>
-      <h1>Landing Page</h1>
+      <h1>Page 2</h1>
       {/* Implement WhatsApp Integration here */}
     </Layout>
   )
